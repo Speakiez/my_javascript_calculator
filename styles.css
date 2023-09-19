@@ -4,3 +4,20 @@
     box-sizing: border-box;
     margin: 0;
 }
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6DDDB8;
+}
+
+.calculator {
+    width: 500px;
+    height: 600px;
+    border-bottom: 6px solid #CCCCCC;
+    border-radius: 16px;
+    box-shadow: 2px 2px 12px #3A7762;
+    background-color: #DFDFDF;
+}
